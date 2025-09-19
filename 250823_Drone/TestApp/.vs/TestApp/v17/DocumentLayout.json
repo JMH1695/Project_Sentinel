@@ -1,0 +1,212 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\(2)250823_Drone\\250823_Drone\\TestApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1FE14DF-1AEB-4C7B-9744-D059520A822C}|TestApp.csproj|c:\\users\\user\\desktop\\(2)250823_drone\\250823_drone\\testapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1FE14DF-1AEB-4C7B-9744-D059520A822C}|TestApp.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1FE14DF-1AEB-4C7B-9744-D059520A822C}|TestApp.csproj|C:\\Users\\user\\Desktop\\(2)250823_Drone\\250823_Drone\\TestApp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C1FE14DF-1AEB-4C7B-9744-D059520A822C}|TestApp.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1FE14DF-1AEB-4C7B-9744-D059520A822C}|TestApp.csproj|c:\\users\\user\\desktop\\(2)250823_drone\\250823_drone\\testapp\\helpers\\uihelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1FE14DF-1AEB-4C7B-9744-D059520A822C}|TestApp.csproj|solutionrelative:helpers\\uihelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1FE14DF-1AEB-4C7B-9744-D059520A822C}|TestApp.csproj|c:\\users\\user\\desktop\\(2)250823_drone\\250823_drone\\testapp\\helpers\\logmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1FE14DF-1AEB-4C7B-9744-D059520A822C}|TestApp.csproj|solutionrelative:helpers\\logmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1FE14DF-1AEB-4C7B-9744-D059520A822C}|TestApp.csproj|c:\\users\\user\\desktop\\(2)250823_drone\\250823_drone\\testapp\\helpers\\imagehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1FE14DF-1AEB-4C7B-9744-D059520A822C}|TestApp.csproj|solutionrelative:helpers\\imagehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1FE14DF-1AEB-4C7B-9744-D059520A822C}|TestApp.csproj|c:\\users\\user\\desktop\\(2)250823_drone\\250823_drone\\testapp\\helpers\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1FE14DF-1AEB-4C7B-9744-D059520A822C}|TestApp.csproj|solutionrelative:helpers\\dbhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1FE14DF-1AEB-4C7B-9744-D059520A822C}|TestApp.csproj|c:\\users\\user\\desktop\\(2)250823_drone\\250823_drone\\testapp\\modules\\vehiclelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1FE14DF-1AEB-4C7B-9744-D059520A822C}|TestApp.csproj|solutionrelative:modules\\vehiclelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1FE14DF-1AEB-4C7B-9744-D059520A822C}|TestApp.csproj|C:\\Users\\user\\Desktop\\(2)250823_Drone\\250823_Drone\\TestApp\\modules\\vehiclelistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C1FE14DF-1AEB-4C7B-9744-D059520A822C}|TestApp.csproj|solutionrelative:modules\\vehiclelistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1FE14DF-1AEB-4C7B-9744-D059520A822C}|TestApp.csproj|C:\\Users\\user\\Desktop\\(2)250823_Drone\\250823_Drone\\TestApp\\Modules\\DataReceiver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1FE14DF-1AEB-4C7B-9744-D059520A822C}|TestApp.csproj|solutionrelative:Modules\\DataReceiver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1FE14DF-1AEB-4C7B-9744-D059520A822C}|TestApp.csproj|C:\\Users\\user\\Desktop\\(2)250823_Drone\\250823_Drone\\TestApp\\Modules\\VehicleListForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1FE14DF-1AEB-4C7B-9744-D059520A822C}|TestApp.csproj|solutionrelative:Modules\\VehicleListForm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C1FE14DF-1AEB-4C7B-9744-D059520A822C}|TestApp.csproj|C:\\Users\\user\\Desktop\\(2)250823_Drone\\250823_Drone\\TestApp\\modules\\dataparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C1FE14DF-1AEB-4C7B-9744-D059520A822C}|TestApp.csproj|solutionrelative:modules\\dataparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\(2)250823_Drone\\250823_Drone\\TestApp\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\(2)250823_Drone\\250823_Drone\\TestApp\\Form1.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "Form1.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T08:52:41.452Z",
+              "IsPinned": true,
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\(2)250823_Drone\\250823_Drone\\TestApp\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\(2)250823_Drone\\250823_Drone\\TestApp\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAGgCAAAAAAAAAAAQwI0CAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T08:32:18.838Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "VehicleListForm.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\(2)250823_Drone\\250823_Drone\\TestApp\\Modules\\VehicleListForm.cs",
+              "RelativeDocumentMoniker": "Modules\\VehicleListForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\(2)250823_Drone\\250823_Drone\\TestApp\\Modules\\VehicleListForm.cs",
+              "RelativeToolTip": "Modules\\VehicleListForm.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAAwG4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T10:37:25.485Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UIHelper.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\(2)250823_Drone\\250823_Drone\\TestApp\\Helpers\\UIHelper.cs",
+              "RelativeDocumentMoniker": "Helpers\\UIHelper.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\(2)250823_Drone\\250823_Drone\\TestApp\\Helpers\\UIHelper.cs",
+              "RelativeToolTip": "Helpers\\UIHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T11:38:47.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LogManager.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\(2)250823_Drone\\250823_Drone\\TestApp\\Helpers\\LogManager.cs",
+              "RelativeDocumentMoniker": "Helpers\\LogManager.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\(2)250823_Drone\\250823_Drone\\TestApp\\Helpers\\LogManager.cs",
+              "RelativeToolTip": "Helpers\\LogManager.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAUwFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T11:38:38.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ImageHelper.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\(2)250823_Drone\\250823_Drone\\TestApp\\Helpers\\ImageHelper.cs",
+              "RelativeDocumentMoniker": "Helpers\\ImageHelper.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\(2)250823_Drone\\250823_Drone\\TestApp\\Helpers\\ImageHelper.cs",
+              "RelativeToolTip": "Helpers\\ImageHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T11:38:23.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DBHelper.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\(2)250823_Drone\\250823_Drone\\TestApp\\Helpers\\DBHelper.cs",
+              "RelativeDocumentMoniker": "Helpers\\DBHelper.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\(2)250823_Drone\\250823_Drone\\TestApp\\Helpers\\DBHelper.cs",
+              "RelativeToolTip": "Helpers\\DBHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T11:37:56.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VehicleLogger.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\(2)250823_Drone\\250823_Drone\\TestApp\\Modules\\VehicleLogger.cs",
+              "RelativeDocumentMoniker": "Modules\\VehicleLogger.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\(2)250823_Drone\\250823_Drone\\TestApp\\Modules\\VehicleLogger.cs",
+              "RelativeToolTip": "Modules\\VehicleLogger.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAAAJIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T11:28:14.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "VehicleListForm.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\(2)250823_Drone\\250823_Drone\\TestApp\\Modules\\VehicleListForm.cs",
+              "RelativeDocumentMoniker": "Modules\\VehicleListForm.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\(2)250823_Drone\\250823_Drone\\TestApp\\Modules\\VehicleListForm.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "Modules\\VehicleListForm.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T08:46:41.902Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DataParser.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\(2)250823_Drone\\250823_Drone\\TestApp\\Modules\\DataParser.cs",
+              "RelativeDocumentMoniker": "Modules\\DataParser.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\(2)250823_Drone\\250823_Drone\\TestApp\\Modules\\DataParser.cs",
+              "RelativeToolTip": "Modules\\DataParser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T08:23:53.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DataReceiver.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\(2)250823_Drone\\250823_Drone\\TestApp\\Modules\\DataReceiver.cs",
+              "RelativeDocumentMoniker": "Modules\\DataReceiver.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\(2)250823_Drone\\250823_Drone\\TestApp\\Modules\\DataReceiver.cs",
+              "RelativeToolTip": "Modules\\DataReceiver.cs",
+              "ViewState": "AgIAABACAAAAAAAAAAAQwDYCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T10:08:00.467Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

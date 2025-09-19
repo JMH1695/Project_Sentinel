@@ -1,0 +1,4 @@
+[15:46:57] MQTT 연결 성공
+[15:46:58] WebRTC 스트림 페이지 로드 완료
+[15:46:58] 토픽 drone/status, drone/vehicle 구독 시작
+[15:46:58] ❌ DB 조회 오류: Authentication method 'auth_gssapi_client' not supported by any of the available plugins

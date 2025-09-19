@@ -1,0 +1,7 @@
+# requirements.txt
+ultralytics==8.3.13
+opencv-python==4.10.0.84
+numpy>=1.23.5
+ultralytics
+tensorflow
+paho-mqtt

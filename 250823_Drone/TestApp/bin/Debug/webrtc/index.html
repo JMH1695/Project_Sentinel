@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Drone Stream</title>
+  <style>
+    html, body {
+      margin: 0;
+      padding: 0;
+      background-color: black;
+      overflow: hidden;
+      height: 100%;
+      width: 100%;
+    }
+    video {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+  </style>
+</head>
+<body>
+
+  <video id="video" controls autoplay muted>
+    <source src="http://54.180.119.91:8080/hls/stream.m3u8" type="application/x-mpegURL">
+    브라우저가 이 영상을 지원하지 않습니다.
+  </video>
+
+</body>
+</html>

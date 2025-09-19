@@ -1,0 +1,9 @@
+작업환경
+
+Python 311사용
+
+cd "C:\Users\user\Desktop\detect"
+
+pip install -r requirements.txt
+
+
